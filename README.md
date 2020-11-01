@@ -1,20 +1,23 @@
 # Summary
 
-The AHA Khunsari Treebank is a small treebank for Today Khunsari. Its corpus is collected and annotated manually. We have prepared this bank tree based on interviews with Khunsari speakers.
+The AHA Khunsari Treebank is a small treebank for contemporary Khunsari. Its corpus is collected and annotated manually. We have prepared this treebank based on interviews with Khunsari speakers.
 
 
 # Introduction
 
-...
+Khunsari treebank consist of 10 sentences of this level. We are trying to make this corpus bigger day by day.
+AHA is a small group, tries to analyze Iranian language and find their similarities and differences.
 
 
 # Acknowledgments
 
-...
+Theses sentences were prepared with the help of Vaneshani people.
+First, we used the sentences suggested by APLL (Academy of Persian Language and Literature) to collect Iranian languages.
+This project is a research project by AmirHossein, Hamid and Amir (AHA).
 
 ## References
 
-* (citation)
+* Mojiri Foroushani, AmirHossein; Aghaei, Hamid; Ahmadi, Amir (2020): "AHA Khunsari dependency treebank", Universal dependencies (universaldependencies.org)
 
 
 # Changelog
@@ -35,7 +38,7 @@ XPOS: manual native
 Features: manual native
 Relations: manual native
 Contributors: Mojiri Foroushani, AmirHossein; Aghaei, Hamid; Ahmadi, Amir
-Contributing: elsewhere
+Contributing: here
 Contact: amojiry@gmail.com
 ===============================================================================
 </pre>
