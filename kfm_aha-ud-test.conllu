@@ -70,7 +70,7 @@
 8	.	.	PUNCT	DELM	_	7	punct	_	_
 
 # sent_id = GRAMMAR_VANESHANI_8
-# text = وقتی اِمِگوا اِز پِلا بئون جیر پا م گیرش کَ اُ دَرکَفتُن.
+# text = وقتی اِمِگوا اِز پِلا بئون جیر پا م گیر ش کَ اُ دَرکَفتُن.
 # text_fa = وقتی میخواستم از پله ها پایین بروم پایم گیر کرد و افتادم.
 1	وقتی	وقتی	SCONJ	CON	_	6	mark	_	_
 2	اِمِگوا	گ	VERB	V_PA	Number=Sing|Person=1|Tense=Past	0	root	_	_
@@ -88,7 +88,7 @@
 14	.	.	PUNCT	DELM	_	13	punct	_	_
 
 # sent_id = GRAMMAR_VANESHANI_9
-# text = اِز دِی سال پیش تا اِطون اونا ندیُ.
+# text = اِز دِی سال پیش تا اِطون او نا ندیُ.
 # text_fa = از ده سال پیش تا الان او را ندیده‌ام.
 1	اِز	اِز	ADP	P	_	2	case	_	_
 2	دِی	دِی	NUM	NUM	NumType=Card	9	nummod	_	_
