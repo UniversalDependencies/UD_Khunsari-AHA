@@ -14,7 +14,7 @@
 3	رِختا	لباس	NOUN	N_Sing	Number=Sing	6	obj	_	SpaceAfter=No
 4	ما	مو	PRON	PRO	Number=Sing|Person=1|PronType=Prs	3	nmod:poss	_	_
 5	کول	کول	NOUN	N_SING	_	6	compound:lvc	_	_
-6	مُکِرُن	کِر	VERB	V_PRS	Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
+6	مِکِرُن	کِر	VERB	V_PRS	Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	DELM	_	6	punct	_	_
 
 # sent_id = GRAMMAR_VANESHANI_3
@@ -33,7 +33,7 @@
 1	بِرا	بِرا	NOUN	N_Sing	Number=Sing	3	nsubj	_	_
 2	م	م	PRON	PRO	Number=Sing|Person=1|PronType=Prs	1	nmod:poss	_	_
 3	نَچو	چ	VERB	V_PRS	Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	_
-4	مدرسه	مدرسه	NOUN	N_Sing	Number=Sing	3	obl	_	_
+4	مدرسَه	مدرسَه	NOUN	N_Sing	Number=Sing	3	obl	_	_
 5	.	.	PUNCT	DELM	_	3	punct	_	_
 
 # sent_id = GRAMMAR_VANESHANI_5
