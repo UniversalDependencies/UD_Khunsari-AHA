@@ -1,6 +1,6 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+The AHA Khunsari Treebank is a small treebank for Today Khunsari. Its corpus is collected and annotated manually. We have prepared this bank tree based on interviews with Khunsari speakers.
 
 
 # Introduction
