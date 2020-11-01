@@ -7,7 +7,7 @@
 4	.	.	PUNCT	DELM	_	3	punct	_	_
 
 # sent_id = GRAMMAR_VANESHANI_2
-# text = مُن دارُن رِختا ما کول مِکِرُن
+# text = مُن دارُن رِختا ما کول مِکِرُن.
 # text_fa = من دارم لباسم را می‌پوشم.
 1	مُن	مُن	PRON	PRO	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 2	دارُن	دار	AUX	V_AUX	Number=Sing|Person=1|Tense=Fut	6	aux	_	_
