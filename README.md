@@ -11,9 +11,12 @@ AHA is a small group, tries to analyze Iranian language and find their similarit
 
 # Acknowledgments
 
-Theses sentences were prepared with the help of Vaneshani people.
+Theses sentences were prepared with the help of Vaneshani people. On behalf of the AHA group, Mr. Mohammad Hossein Mashayekhi is thanked.
+
 First, we used the sentences suggested by APLL (Academy of Persian Language and Literature) to collect Iranian languages.
+
 This project is a research project by AmirHossein, Hamid and Amir (AHA).
+
 
 ## References
 
