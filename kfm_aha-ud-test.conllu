@@ -75,7 +75,7 @@
 1	وقتی	وقتی	SCONJ	CON	_	6	mark	_	_
 2	اِمِگوا	گ	VERB	V_PA	Number=Sing|Person=1|Tense=Past	0	root	_	_
 3	اِز	اِز	ADP	P	_	4	case	_	_
-4	پِلا	پله	NOUN	N_Sing	Number=Sing	6	obl	_	_
+4	پِلا	پله	NOUN	N_Plur	Number=Plur	6	obl	_	_
 5	بئون	بئون	ADV	ADV_LOC	Case=Loc	6	advcl	_	_
 6	جیر	جیر	VERB	V_SUB	Mood=Sub|Number=Sing|Person=1|Tense=Pres	2	ccomp	_	_
 7	پا	پا	NOUN	N_Sing	Number=Sing	11	nsubj	_	_
