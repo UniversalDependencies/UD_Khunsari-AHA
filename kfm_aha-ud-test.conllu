@@ -79,7 +79,7 @@
 # sent_id = GRAMMAR_VANESHANI_8
 # text = وقتی اِمِگوا اِز پِلا بئون جیر پا م گیر ش کَ اُ دَرکَفتُن.
 # text_fa = وقتی می‌خواستم از پله‌ها پایین بروم پایم گیر کرد و افتادم.
-- text_en = When I wanted to go down the stairs, my foot got stock and I fell.
+# text_en = When I wanted to go down the stairs, my foot got stock and I fell.
 1	وقتی	وقتی	SCONJ	CON	_	6	mark	_	_
 2	اِمِگوا	گ	VERB	V_PA	Number=Sing|Person=1|Tense=Past	0	root	_	_
 3	اِز	اِز	ADP	P	_	4	case	_	_
