@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 13e6b709a8bc643c3f902800321a7beda46feb8d
+commit 04abe686385f14a9a6f68784bd723a6b60ded594
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 13 22:03:41 2022 +0100
+Date:   Tue May 9 00:14:39 2023 +0200
 Evaluating the following revision of UD_Khunsari-AHA:
-commit 588e2418eecbc7f898790dedd384794a5783261b
+commit 1ecdd279b6ea23d02deff1ee097e49b30ef71335
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat May 14 14:49:55 2022 +0200
+Date:   Mon Nov 14 11:42:21 2022 +0100
 Size: counted 74 of 74 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -24,8 +24,8 @@ Udapi:
 Udapi: found 13 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 74 words.
 Genres: found 2 out of 17 known.
-validate.py --lang kfm --max-err=10 UD_Khunsari-AHA/kfm_aha-ud-test.conllu
-[Line 93 Sent GRAMMAR_VANESHANI_8 Node 11]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [7, 10]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+/net/work/people/zeman/unidep/tools/validate.py --lang kfm --max-err=10 UD_Khunsari-AHA/kfm_aha-ud-test.conllu
+[Line 93 Sent GRAMMAR_VANESHANI_8 Node 11]: [L3 Syntax too-many-subjects] Multiple subjects [7, 10] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 Syntax errors: 1
 *** FAILED *** with 1 errors
 Exit code: 1
