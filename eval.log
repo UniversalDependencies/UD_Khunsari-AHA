@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Khunsari-AHA:
-commit 1ecdd279b6ea23d02deff1ee097e49b30ef71335
+commit af2e109b1d26bcf20ba327d2bd73bc7ce22ea9a7
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 14 11:42:21 2022 +0100
+Date:   Tue May 9 11:18:01 2023 +0200
 Size: counted 74 of 74 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.
 Size: maximum value 13.815511 is for 1000000 words or more.
